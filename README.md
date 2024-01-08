@@ -13,7 +13,7 @@ This C++ program performs image convolution, allowing you to apply various filte
 
 ## Introduction
 
-The Image Convolution Program is a C++ application designed for image processing. It uses convolution to modify the original image based on a specified kernel, enabling operations such as blurring, sharpening, and edge detection.
+The Image Convolution Program is a C++ application designed for image processing created for assignment. It uses convolution to modify the original image based on a specified kernel, enabling operations such as blurring, sharpening, and edge detection.
 
 ## Features
 
@@ -27,13 +27,13 @@ The Image Convolution Program is a C++ application designed for image processing
 1. **Compile the program:**
 
     ```bash
-    g++ main.cpp -o image_convolution
+    g++ main.cpp -o Image_Convolution
     ```
 
 2. **Run the executable:**
 
     ```bash
-    ./image_convolution
+    ./Image_Convolution
     ```
 
 ## Functions
